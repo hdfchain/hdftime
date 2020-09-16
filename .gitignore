@@ -1,0 +1,10 @@
+.vscode
+cmd/hdftime/hdftime
+cmd/hdftime_timestamp/hdftime_timestamp
+hdftimed/hdftimed
+vendor/
+*~
+*.pyc
+*.sw?
+*.orig
+*.diff
