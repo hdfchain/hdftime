@@ -10,7 +10,7 @@ require (
 	github.com/hdfchain/hdfd/dcrutil/v2 v2.0.1
 	github.com/hdfchain/hdfd/txscript/v2 v2.1.0
 	github.com/hdfchain/hdfd/wire v1.3.0
-	github.com/hdfchain/hdfdata/api/types/v5 v4.0.4
+	github.com/hdfchain/hdfdata/api/types/v4 v4.0.4
 	github.com/hdfchain/hdftime/api/v2 v2.0.0
 	github.com/hdfchain/hdfwallet/rpc/walletrpc v0.3.0
 	github.com/hdfchain/slog v1.0.0
